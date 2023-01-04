@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vovan-nikolaevich-5b196124a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vovan-nikolaevich-5b196124a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vovan-nikolaevich-5b196124a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vovan-nikolaevich" height="30" width="40" /></a>
 <a href="https://instagram.com/vovannikolaevich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vovannikolaevich" height="30" width="40" /></a>
 <a href="https://discord.gg/BOBAH0TPOH#1275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BOBAH0TPOH#1275" height="30" width="40" /></a>
 </p>
