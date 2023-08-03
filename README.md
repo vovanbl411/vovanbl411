@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vladimir</h1>
 <h3 align="center">A passionate junior-DevOps from Minsk.</h3>
 
-- 🌱 I’m currently learning **Terraform, k8s, ansible, jenkins, python, bash.**
+- 🌱 I’m currently learning **Terraform, k8s, ansible, jenkins, python, bash, django**
 
-- ⚡ Fun fact **I'm looking for a job.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
