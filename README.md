@@ -1,16 +1,45 @@
-<h1 align="center">Hi 👋, I'm Vladimir</h1>
-<h3 align="center">A passionate junior-DevOps from Minsk.</h3>
+<h1 align="center">Hi, I'm Vladimir 👋</h1>
 
-- 🌱 I’m currently learning **Terraform, k8s, ansible, jenkins, python, bash, django**
+<p align="center">
+  <strong>DevOps / Linux engineer</strong><br>
+  Infrastructure, automation, Gentoo Linux and reproducible systems.
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
 
-| | |
-|:---:|:---:|
-| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30">](https://www.linkedin.com/in/vovan-nikolaevich/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30">](https://instagram.com/vovannikolaevich) |
+### About me
 
-<h3 align="left">Languages and Tools:</h3>
+I work with Linux infrastructure and automation, with a particular interest in understanding how systems behave under the hood rather than treating them as black boxes.
 
-| | | | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40">](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40">](https://www.docker.com/) | [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40">](https://git-scm.com/) | [<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40">](https://www.jenkins.io) | [<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40">](https://kubernetes.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40">](https://www.linux.org/) | [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40">](https://postman.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">](https://www.python.org) |
+My current focus includes:
+
+- Linux and Gentoo
+- Infrastructure as Code and automation
+- Kubernetes and containerized workloads
+- CI/CD and GitHub Actions
+- PostgreSQL and infrastructure services
+- Gentoo packaging and the Wayland ecosystem
+
+I prefer simple, reproducible systems with clear documentation, explicit state and automation that can be reviewed before it changes anything.
+
+### Selected projects
+
+**[gentoo-mydocs](https://github.com/vovanbl411/gentoo-mydocs)**  
+Practical Gentoo Linux documentation based on a real workstation: hardened profiles, LLVM, Wayland, Secure Boot, TPM, Portage, hardware support and troubleshooting.
+
+**[umbriel-overlay](https://github.com/vovanbl411/umbriel-overlay)**  
+Gentoo overlay for the Umbriel Wayland compositor and its XDG Desktop Portal, with automated snapshot preparation, CI validation and controlled update workflows.
+
+**[asus-user-status-led](https://github.com/vovanbl411/asus-user-status-led)**  
+Linux userspace tooling for controlling the ASUS User-status LED, including automatic microphone capture detection through PipeWire.
+
+**[postgres-cluster](https://github.com/vovanbl411/postgres-cluster)**  
+Infrastructure project covering Kubernetes, PostgreSQL HA, Terraform, Ansible, GitLab CI/CD, monitoring and encrypted networking.
+
+### Toolbox
+
+`Linux` · `Gentoo` · `Terraform` · `Ansible` · `Kubernetes` · `Docker` · `PostgreSQL` · `GitHub Actions` · `Python` · `Bash`
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/vovan-nikolaevich/)
